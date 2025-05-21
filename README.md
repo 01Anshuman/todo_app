@@ -16,7 +16,9 @@ A simple and interactive To-Do List desktop application built using **Python** a
 
 ## 📸 Screenshot
 
-![To-Do App Screenshot](assets/screenshot.png)
+![To-Do App Screenshot](assets/Screenshot.png)
+
+
 
 ---
 
