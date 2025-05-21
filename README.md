@@ -30,7 +30,5 @@ A simple and interactive To-Do List desktop application built using **Python** a
 | 🖼️ Tkinter    | GUI development framework |
 | 📦 OOP        | (Optional) for future scaling |
 
----
 
-## 📁 Project Structure
 
